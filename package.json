@@ -1,0 +1,18 @@
+{
+  "name": "profile-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "isvalid": "^1.6.6",
+    "mysql2": "^1.5.3",
+    "restify": "^7.2.1",
+    "sequelize": "^4.38.0"
+  }
+}
